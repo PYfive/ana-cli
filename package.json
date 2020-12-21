@@ -1,0 +1,25 @@
+{
+  "name": "ana-cli",
+  "version": "1.0.0",
+  "description": "后台管理脚手架",
+  "main": "index.js",
+  "bin": {
+    "ana": "bin/ana.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PYfive/ana-cli.git"
+  },
+  "author": "nirvana_1993",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PYfive/ana-cli/issues"
+  },
+  "homepage": "https://github.com/PYfive/ana-cli#readme",
+  "dependencies": {
+    "commander": "^6.2.0"
+  }
+}
